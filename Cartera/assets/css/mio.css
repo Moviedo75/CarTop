@@ -1,0 +1,93 @@
+﻿#pswd_info{
+	display: none;
+}
+
+#Varpswd_info{
+	display: none;
+}
+
+.valid{
+	color:green;
+}
+
+.invalid{
+	color: red;
+
+}
+
+#container {
+    margin: 2px auto !important;
+    width: 50% !important;  /* Ancho del contenedor */
+}
+
+#container input {
+	height: 2.5em !important;
+	visibility: hidden !important;
+}
+
+#container label {
+	background: #f9f9f9 !important;  /* Fondo de las pestañas */
+	border-radius: .25em .25em 0 0 !important;
+	color: #888 !important;  /* Color del texto de las pestañas */
+	cursor: pointer !important;
+	display: block !important;
+	float: left !important;
+	font-size: 1em !important;  /* Tamaño del texto de las pestañas */
+	height: 2.5em !important;
+	line-height: 2.5em !important;
+	margin-right: .25em !important;
+	padding: 0 1.5em !important;
+	text-align: center !important;
+}
+
+#container input:hover + label {
+	background: #ddd !important;  /* Fondo de las pestañas al pasar el cursor por encima */
+	color: #666 !important;  /* Color del texto de las pestañas al pasar el cursor por encima */
+}
+
+#container input:checked + label {
+	background: #f1f1f1 !important;  /* Fondo de las pestañas al presionar */
+	color: #444 !important; /* Color de las pestañas al presionar */
+	position: relative !important;
+	z-index: 6 !important;
+	/*
+	-webkit-transition: .1s;
+	-moz-transition: .1s;
+	-o-transition: .1s;
+	-ms-transition: .1s;
+	*/
+}
+
+#A {
+	background: #f1f1f1 !important;  /* Fondo del contenido */
+	border-radius: 0 .25em .25em .25em !important;
+	min-height: 20em !important;  /* Alto del contenido */
+	position: relative !important;
+	width: 100% !important;
+	z-index: 5 !important;
+}
+
+#A div {
+	opacity: 0 !important;
+	padding: 1.5em !important;
+	position: absolute !important;
+	z-index: -100 !important;
+	/*
+	transition: all linear 0.1s;
+	*/
+}
+
+
+#container input#tab-1:checked ~ #A #content-1,
+#container input#tab-2:checked ~ #A #content-2,
+#container input#tab-3:checked ~ #A #content-3,
+#container input#tab-4:checked ~ #A #content-4,
+#container input#tab-5:checked ~ #A #content-5,
+#container input#tab-5:checked ~ #A #content-5{
+    opacity: 1 !important;
+    z-index: 100 !important;
+}
+
+input.visible {
+  visibility: visible !important;
+}

@@ -1,0 +1,216 @@
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\obj\Debug\Cartera.csprojResolveAssemblyReference.cache
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\ApplicationInsights.config
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\csc.exe
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\vbc.exe
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Cartera.dll.config
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Cartera.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Cartera.pdb
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.Web.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.Web.xml
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\obj\Debug\Cartera.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\obj\Debug\Cartera.pdb
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.Owin.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Owin.dll
+C:\Users\Mateo Oviedo\Documents\Programacion\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.Owin.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\ApplicationInsights.config
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\csc.exe
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\vbc.exe
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Cartera.dll.config
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Cartera.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Cartera.pdb
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.Web.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.Owin.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Owin.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.Web.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\bin\Microsoft.Owin.xml
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\obj\Debug\Cartera.csprojResolveAssemblyReference.cache
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\obj\Debug\Cartera.dll
+C:\Users\Mateo\Documents\Programacion\.Net web C#\ProyectoCarTop\V4\Cartera\Cartera\obj\Debug\Cartera.pdb
+H:\Juegos\V4\Cartera\Cartera\bin\ApplicationInsights.config
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\csc.exe
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\System.Collections.Immutable.dll
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\System.Reflection.Metadata.dll
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\vbc.exe
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe
+H:\Juegos\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe.config
+H:\Juegos\V4\Cartera\Cartera\bin\Cartera.dll.config
+H:\Juegos\V4\Cartera\Cartera\bin\Cartera.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Cartera.pdb
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.Web.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.Owin.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Owin.dll
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.xml
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.Web.xml
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.xml
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.xml
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Juegos\V4\Cartera\Cartera\bin\Microsoft.Owin.xml
+H:\Juegos\V4\Cartera\Cartera\obj\Debug\Cartera.csprojResolveAssemblyReference.cache
+H:\Juegos\V4\Cartera\Cartera\obj\Debug\Cartera.dll
+H:\Juegos\V4\Cartera\Cartera\obj\Debug\Cartera.pdb
+K:\Juegos\V4\Cartera\Cartera\bin\ApplicationInsights.config
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\csc.exe
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\System.Collections.Immutable.dll
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\System.Reflection.Metadata.dll
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\vbc.exe
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe
+K:\Juegos\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe.config
+K:\Juegos\V4\Cartera\Cartera\bin\Cartera.dll.config
+K:\Juegos\V4\Cartera\Cartera\bin\Cartera.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Cartera.pdb
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.Agent.Intercept.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.PerfCounterCollector.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.Web.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.Owin.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Owin.dll
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.xml
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.Web.xml
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.xml
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.xml
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Juegos\V4\Cartera\Cartera\bin\Microsoft.Owin.xml
+K:\Juegos\V4\Cartera\Cartera\obj\Debug\Cartera.csprojResolveAssemblyReference.cache
+K:\Juegos\V4\Cartera\Cartera\obj\Debug\Cartera.dll
+K:\Juegos\V4\Cartera\Cartera\obj\Debug\Cartera.pdb
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\ApplicationInsights.config
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\csc.exe
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\vbc.exe
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Cartera.dll.config
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Cartera.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Cartera.pdb
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.Web.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.Owin.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Owin.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.Web.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\bin\Microsoft.Owin.xml
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\obj\Debug\Cartera.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\obj\Debug\Cartera.dll
+C:\Users\andre\Desktop\V4\V4\Cartera\Cartera\obj\Debug\Cartera.pdb
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\obj\Debug\Cartera.csprojResolveAssemblyReference.cache
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\obj\Debug\Cartera.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\obj\Debug\Cartera.pdb
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\ApplicationInsights.config
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\csc.exe
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\vbc.exe
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Cartera.dll.config
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Cartera.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Cartera.pdb
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.Web.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.Owin.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Owin.dll
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.Web.xml
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mateo Oviedo\Downloads\proyecto-V4\proyecto V4\V4\Cartera\Cartera\bin\Microsoft.Owin.xml
